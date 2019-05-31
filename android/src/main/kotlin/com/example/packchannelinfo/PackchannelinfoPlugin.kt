@@ -59,6 +59,6 @@ class PackchannelinfoPlugin(private val registrar: Registrar) : MethodCallHandle
 
             }
         }
-        return "";
+        return "default";
     }
 }
